@@ -15,7 +15,7 @@ const About = () => {
           <p className="py-2 text-gray-600">
             Hi there! I recently graduated with my second degree in Information
             Technology, after previously obtaining a degree in Software
-            Engineering. With some experience in web development, I'm always
+            Engineering. With some experience in web development, I am always
             eager to learn new technologies and expand my skills. On my personal
             page, you can expect to see updates on my latest projects and
             interests, as well as my thoughts on the latest industry trends.
