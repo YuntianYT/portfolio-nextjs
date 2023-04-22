@@ -153,11 +153,11 @@ const Navbar = () => {
                   Skills
                 </li>
               </Link>
-              <Link href='/#projects'>
+              {/* <Link href='/#projects'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
                   Projects
                 </li>
-              </Link>
+              </Link> */}
               <Link href='/resume'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
                   Resume
