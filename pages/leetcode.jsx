@@ -31,11 +31,11 @@ const leetcode = () => {
             helping coders tackle LeetCode problems. By leveraging the OpenAI
             API, the website generates LeetCode solutions for all languages and
             stores them in MongoDB. This makes it easy for users to access and
-            learn from a comprehensive collection of coding solutions. I'm
+            learn from a comprehensive collection of coding solutions. I&#39;m
             thrilled to provide a resource that can help fellow coders sharpen
             their skills and tackle challenging problems. If you find the
-            website useful, please don't hesitate to spread the word and share
-            it with your friends!
+            website useful, please don&#39;t hesitate to spread the word and
+            share it with your friends!
           </p>
 
           <a

@@ -33,12 +33,12 @@ const DPMC = () => {
             separate management consoles for Data Ingestion and Data Digestion,
             which required users to navigate two different front-end
             applications. However, with the new unified management console,
-            we've been able to significantly improve the design and user
+            we&#39;ve been able to significantly improve the design and user
             interface. Not only does this result in a more consistent user
             experience, but it also lowers the effort and cost of managing two
-            separate applications. We're excited to provide a more efficient and
-            user-friendly solution for our clients and hope it enhances their
-            overall experience.
+            separate applications. We&#39;re excited to provide a more efficient
+            and user-friendly solution for our clients and hope it enhances
+            their overall experience.
           </p>
 
           <a
