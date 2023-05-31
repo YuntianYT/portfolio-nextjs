@@ -1,6 +1,7 @@
 import React from 'react';
 import leetcodeImg from '../public/assets/projects/leetcode.jpg';
 import DPMCImg from '../public/assets/projects/DPMC.jpg';
+import applicationImg from '../public/assets/projects/application.jpg';
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {
@@ -23,6 +24,12 @@ const Projects = () => {
             backgroundImg={DPMCImg}
             projectUrl='/DPMC'
             tech='React JS'
+          />
+          <ProjectItem
+            title='Application Tracker'
+            backgroundImg={applicationImg}
+            projectUrl='/application'
+            tech='React JS/Firebase'
           />
         </div>
       </div>
