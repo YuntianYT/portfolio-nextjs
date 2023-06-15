@@ -37,7 +37,13 @@ const leetcode = () => {
             website useful, please don&#39;t hesitate to spread the word and
             share it with your friends!
           </p>
-
+          <a
+            href='https://github.com/YuntianYT/leetcode-solution'
+            target='_blank'
+            rel='noreferrer'
+          >
+            <button className='px-8 py-2 mt-4 mr-8'>Github Repo</button>
+          </a>
           <a
             href='https://leetcode-solution.vercel.app/'
             target='_blank'

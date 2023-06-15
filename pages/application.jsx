@@ -35,7 +35,7 @@ const netflix = () => {
             with a convenient way to track their application progress.
           </p>
           <a
-            href='https://github.com/soyoutry/application-tracking'
+            href='https://github.com/YuntianYT/application-tracking'
             target='_blank'
             rel='noreferrer'
           >
