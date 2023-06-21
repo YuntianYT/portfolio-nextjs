@@ -80,26 +80,28 @@ const resume = () => {
           <p className='py-1 italic'>Data Platform Developer (2022-2023)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
-              Developed enterprise data platform UI components utilizing React
-              and Ant Design in Typescript
+              Developed enterprise data platform UI components using React and
+              Ant Design in Typescript, resulting in a more user-friendly and
+              efficient platform
             </li>
             <li>
-              Ensured code quality by performing rigorous unit tests with Jest
-              and E2E tests using Cypress
+              Maintained and optimized backend codebase in Java with Spring Boot
+              framework to handle data processing and integrate with frontend
             </li>
             <li>
-              Redesigned UX flow using Lucidchart, creating a high‑fidelity
-              wireframe prototype with Figma
+              Implemented unit tests using Jest and E2E tests using Cypress to
+              ensure code quality and contribute to the quality assurance
+              process
             </li>
             <li>
-              Adapted to an agile work environment with daily stand‑ups and Jira
-              for efficient tracking of user stories and bug reports
+              Adapted to an agile work environment with daily stand-ups and
+              Jira, employing best practices such as Scrum and Kanban to
+              efficiently track user stories and bug reports
             </li>
             <li>
-              Restructured codebase using Monorepo for modularization,
-              facilitating independent deployment of modules via Google
-              Kubernetes Engine(GKE), significantly reduced downtime while
-              releasing
+              Restructured codebase using Monorepo, facilitating independent
+              deployment of modules via Google Kubernetes Engine (GKE) and
+              reducing platform downtime by 25%
             </li>
           </ul>
         </div>
@@ -113,17 +115,15 @@ const resume = () => {
           <p className='py-1 italic'>Web Developer (2019-2020)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
-              Designed and implemented a full‑stack web application for internal
-              candidate testing and exam result tracking
+              Designed and implemented a full-stack web application using Vue.js
+              and Element UI for internal candidate testing and exam result
+              tracking, resulting in improved efficiency and accuracy of the
+              testing process
             </li>
             <li>
-              Crafted responsive front‑end for exam module utilizing Vue.js and
-              Element UI
-            </li>
-            <li>
-              Developed robust back‑end using Spring framework (Spring, Spring
-              MVC, Mybatis), leveraging Spring Cloud for seamless inter‑module
-              communication
+              Developed robust back-end functionality using the Spring framework
+              (including Spring MVC and Mybatis), and utilized Spring Cloud for
+              seamless inter-module communication
             </li>
             <li>
               Deployed and maintained the system on Linux servers using Docker
@@ -144,14 +144,16 @@ const resume = () => {
           </p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
-              Developed a web application using Next.js framework to allow users
-              to search for LeetCode solutions by inputting the problem number
-              and selecting the language of the answer.
+              Developed a Next.js-powered web application with a MongoDB
+              database that allows users to search for LeetCode solutions by
+              problem number and language
             </li>
             <li>
-              Integrated OpenAI API to retrieve the LeetCode solutions and
-              implemented a backend service using Node.js, Express framework,
-              and MongoDB database.
+              Incorporated OpenAI API to access LeetCode solutions in a way that
+              is both efficient and user-friendly
+            </li>
+            <li>
+              Implemented Node.js to build the backend of the web application
             </li>
           </ul>
         </div>
