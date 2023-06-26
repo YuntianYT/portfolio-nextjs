@@ -14,7 +14,7 @@ const Contact = () => {
         <div className='w-full h-[500px] shadow-2xl shadow-gray-400 rounded-xl p-4'>
           <div className='flex flex-col justify-center items-center lg:p-4 h-full '>
             <div>
-              <h2 className='py-2'>Yuntian Shi </h2>
+              <h2 className='py-2'>Terry Shi </h2>
             </div>
             <div>
               <p>Software Developer</p>
