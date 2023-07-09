@@ -1,4 +1,5 @@
 import React from 'react';
+import spotitubeImg from '../public/assets/projects/spotitube.jpg';
 import leetcodeImg from '../public/assets/projects/leetcode.jpg';
 import DPMCImg from '../public/assets/projects/DPMC.jpg';
 import applicationImg from '../public/assets/projects/application.jpg';
@@ -13,6 +14,12 @@ const Projects = () => {
         </p>
         <h2 className='py-4'>What I&apos;ve Built</h2>
         <div className='grid md:grid-cols-2 gap-8'>
+          <ProjectItem
+            title='Spotitube'
+            backgroundImg={spotitubeImg}
+            projectUrl='/spotitube'
+            tech='React JS, tailwindcss'
+          />
           <ProjectItem
             title='Leetcode Solutions'
             backgroundImg={leetcodeImg}
